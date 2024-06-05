@@ -1,2 +1,2 @@
-# drtysmyk
-INterrogate Snyk for useful stats
+# drtysnyk
+Interrogate Snyk for useful stats
